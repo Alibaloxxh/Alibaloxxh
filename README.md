@@ -1,4 +1,5 @@
 Full-Stack Developer
+
 I’m currently learning React and building my skills in creating dynamic web applications.
   I’m looking to collaborate on exciting web development projects and open-source contributions.
   How to reach me: You can contact me via [email](halikorai@gamil.com) or connect with me on [LinkedIn](linkedin.com/in/ali-murtaza-abb0b7236).
