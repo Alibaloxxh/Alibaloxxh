@@ -1,16 +1,30 @@
-Full-Stack Developer
+Hi, I'm Ali Murtaza 👋
 
-I’m currently learning React and building my skills in creating dynamic web applications.
-  I’m looking to collaborate on exciting web development projects and open-source contributions.
-  How to reach me: You can contact me via [email](halikorai@gamil.com) or connect with me on [LinkedIn](linkedin.com/in/ali-murtaza-abb0b7236).
-  Fun fact: I find comfort and motivation in coding, and I'm always eager to learn new technologies and improve my skills.
+Full Stack Engineer @ QF Network | React Native · NestJS · FastAPI · AI Integrations
 
-  ### Let's Connect!
-- 🐦 [Twitter](https://twitter.com/baloxh__ali)
-- 💼 [LinkedIn](linkedin.com/in/ali-murtaza-abb0b7236)
-- 📁 [My GitHub Repositories](https://github.com/Alibaloxxh?tab=repositories)
+I build AI-powered mobile and web apps that people actually enjoy using. My core stack is **React Native (Expo)**, **FastAPI/NestJS**, and **PostgreSQL** — lately going deep on AI engineering: vision-based receipt parsing, function-calling chat agents, and ML-driven prediction baked directly into mobile apps.
 
-Feel free to check out my repositories and reach out if you'd like to collaborate or just chat about development
+🚀 Recent builds
+- **AI Expense Coach** — receipt-scanning app with a conversational assistant grounded in real transaction data (React Native + FastAPI + Claude API)
+- **RastaAI** — predictive navigation app using ML traffic-pattern analysis instead of just reactive rerouting
+- 
+hedical.online 
 
-Alibaloxxh/Alibaloxxh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+🛠️ Tech Stack
+`React Native` `Expo` `TypeScript` `NestJS` `FastAPI` `Python` `PostgreSQL` `Flutter` `Claude API` `SQLAlchemy`
+
+💼 Currently
+Full Stack Engineer @ **QF Network** — previously built cross-platform mobile apps at **AppCraftr**, and worked as a Web Application Security Analyst at **Techrypt**.
+
+Open to remote and part-time work, and freelance projects — especially AI-integrated mobile products. If you're building in that space, let's talk.
+
+📈 GitHub Stats
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alibaloxxh&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alibaloxxh&layout=compact&theme=radical)
+
+🤝 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/ali-murtazaabb0b7236)
+- 🌐 [Portfolio](https://alimurtazabaloxh.netlify.app/)
+- 📧 halikorai@gmail.com
+- 🐦 [Twitter/X](https://twitter.com/baloxh__ali)
+- 📁 [My repositories](https://github.com/Alibaloxxh?tab=repositories)
