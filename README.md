@@ -23,7 +23,7 @@ Open to remote and part-time work, and freelance projects — especially AI-inte
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alibaloxxh&layout=compact&theme=radical)
 
 🤝 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/ali-murtazaabb0b7236)
+- 💼 [LinkedIn]https://www.linkedin.com/in/ali-murtaza-abb0b7236/
 - 🌐 [Portfolio](https://alimurtazabaloxh.netlify.app/)
 - 📧 halikorai@gmail.com
 - 🐦 [Twitter/X](https://twitter.com/baloxh__ali)
