@@ -1,20 +1,20 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:F5F5F5,50:CCCCCC,100:9E9E9E&height=200&section=header&text=Ali%20Murtaza&fontSize=50&fontColor=222222&animation=fadeIn&fontAlignY=35)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C9FF,100:00FFA3&height=200&section=header&text=Ali%20Murtaza&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35)
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="480">
 
 <a href="https://alimurtazabaloxh.netlify.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=555555&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Mobile+Developer;React+%7C+React+Native+%7C+TypeScript;Building+AI-Powered+Apps;Currently+shipping+Hedical+%26+Garbiq" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Mobile+Developer;React+%7C+React+Native+%7C+TypeScript;Building+AI-Powered+Apps;Currently+shipping+Hedical+%26+Garbiq" alt="Typing SVG" />
 </a>
 
 <br/>
 
 **Turning ideas into shipped products — web, mobile, and AI, end to end.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-alimurtazabaloxh.netlify.app-808080?style=for-the-badge)](https://alimurtazabaloxh.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-666666?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ali-murtaza-abb0b7236)
-[![Email](https://img.shields.io/badge/Email-Contact-999999?style=for-the-badge&logo=gmail)](mailto:halikorai@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-alimurtazabaloxh.netlify.app-7F00FF?style=for-the-badge)](https://alimurtazabaloxh.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ali-murtaza-abb0b7236)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:halikorai@gmail.com)
 
 </div>
 
@@ -34,7 +34,7 @@ I'm a Full-Stack Developer based in Pakistan, working across web, mobile, and AI
 
 <div align="center">
 
-![Main System](https://capsule-render.vercel.app/api?type=rect&color=0:E0E0E0,100:B0B0B0&height=140&section=header&text=ALI%20MURTAZA%20%7C%20MAIN%20SYSTEM&fontSize=28&fontColor=222222&fontAlignY=40&desc=Projects%20%7C%20Skills%20%7C%20Experience%20%7C%20Contact&descAlignY=65&descSize=16&descColor=444444)
+![Main System](https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,100:7928CA&height=140&section=header&text=ALI%20MURTAZA%20%7C%20MAIN%20SYSTEM&fontSize=28&fontColor=FFFFFF&fontAlignY=40&desc=Projects%20%7C%20Skills%20%7C%20Experience%20%7C%20Contact&descAlignY=65&descSize=16&descColor=F0F0F0)
 
 </div>
 
@@ -71,7 +71,7 @@ I'm a Full-Stack Developer based in Pakistan, working across web, mobile, and AI
 
 <div align="center">
 
-![System Core](https://capsule-render.vercel.app/api?type=rect&color=0:EFEFEF,100:C4C4C4&height=100&section=header&text=SYSTEM%20CORE&fontSize=24&fontColor=222222&fontAlignY=45&desc=stack%20%C2%B7%20focus%20%C2%B7%20mindset&descAlignY=70&descSize=14&descColor=555555)
+![System Core](https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=100&section=header&text=SYSTEM%20CORE&fontSize=24&fontColor=1A1A2E&fontAlignY=45&desc=stack%20%C2%B7%20focus%20%C2%B7%20mindset&descAlignY=70&descSize=14&descColor=1A1A2E)
 
 </div>
 
@@ -111,32 +111,17 @@ I'm a Full-Stack Developer based in Pakistan, working across web, mobile, and AI
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks**
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-757575?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-757575?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-9E9E9E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-616161?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-BDBDBD?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-424242?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-212121?style=flat-square&logo=nextdotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-757575?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-616161?style=flat-square&logo=fastapi&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-9E9E9E?style=flat-square&logo=nestjs&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,py,fastapi,postgres,firebase,git,vercel&theme=dark)](https://skillicons.dev)
 
-**Data & Infra**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-616161?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-757575?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-9E9E9E?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-424242?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-212121?style=flat-square&logo=vercel&logoColor=white)
+</div>
 
 ---
 
 <div align="center">
 
-![Tech Projects Domains](https://capsule-render.vercel.app/api?type=rect&color=0:E8E8E8,100:BEBEBE&height=100&section=header&text=TECHNOLOGIES%2C%20PROJECTS%20%26%20DOMAINS&fontSize=22&fontColor=222222&fontAlignY=50)
+![Tech Projects Domains](https://capsule-render.vercel.app/api?type=rect&color=0:FF6A00,100:EE0979&height=100&section=header&text=TECHNOLOGIES%2C%20PROJECTS%20%26%20DOMAINS&fontSize=22&fontColor=FFFFFF&fontAlignY=50)
 
 </div>
 
@@ -146,13 +131,13 @@ I'm a Full-Stack Developer based in Pakistan, working across web, mobile, and AI
 
 **Technologies**
 
-![Python](https://img.shields.io/badge/-Python-9E9E9E?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-757575?style=flat-square&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-616161?style=flat-square&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-424242?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-757575?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-9E9E9E?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-616161?style=flat-square&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -198,8 +183,9 @@ I'm a Full-Stack Developer based in Pakistan, working across web, mobile, and AI
 
 <div align="center">
 
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alibaloxxh&show_icons=true&theme=graywhite&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alibaloxxh&layout=compact&theme=graywhite&hide_border=true)
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alibaloxxh&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alibaloxxh&layout=compact&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alibaloxxh&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -207,7 +193,7 @@ I'm a Full-Stack Developer based in Pakistan, working across web, mobile, and AI
 
 <div align="center">
 
-![Collaboration Contact](https://capsule-render.vercel.app/api?type=rect&color=0:E8E8E8,100:BEBEBE&height=100&section=header&text=COLLABORATION%20%26%20CONTACT&fontSize=22&fontColor=222222&fontAlignY=50)
+![Collaboration Contact](https://capsule-render.vercel.app/api?type=rect&color=0:11998E,100:38EF7D&height=100&section=header&text=COLLABORATION%20%26%20CONTACT&fontSize=22&fontColor=FFFFFF&fontAlignY=50)
 
 </div>
 
@@ -226,9 +212,9 @@ I'm a Full-Stack Developer based in Pakistan, working across web, mobile, and AI
 
 **📬 Contact**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-757575?style=for-the-badge)](https://alimurtazabaloxh.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-616161?style=for-the-badge&logo=gmail&logoColor=white)](mailto:halikorai@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-424242?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-murtaza-abb0b7236)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge)](https://alimurtazabaloxh.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:halikorai@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-murtaza-abb0b7236)
 
 </td>
 </tr>
@@ -241,6 +227,6 @@ I'm a Full-Stack Developer based in Pakistan, working across web, mobile, and AI
 ⚡ Building AI-powered web & mobile products
 Star ⭐ the repos if they helped you!
 
-![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=0:9E9E9E,50:CCCCCC,100:F5F5F5&height=120&section=footer)
+![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00FFA3,50:00C9FF,100:7F00FF&height=120&section=footer)
 
 </div>
