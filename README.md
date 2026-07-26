@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:D3D3D3,100:A9A9A9&height=220&section=header&text=Ali%20Murtaza&fontSize=55&fontColor=222222&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20Mobile%20Developer%20%7C%20Building%20AI-Powered%20Apps&descAlignY=55&descSize=18&descColor=333333)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=200&section=header&text=Ali%20Murtaza&fontSize=50&fontColor=222222&animation=fadeIn&fontAlignY=35)
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280">
 
@@ -102,4 +102,4 @@ I'm open to freelance work, collaborations, and interesting product ideas — es
 
 </div>
 
-![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=0:A9A9A9,50:D3D3D3,100:FFFFFF&height=120&section=footer)
+![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=120&section=footer)
