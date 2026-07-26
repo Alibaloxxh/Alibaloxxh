@@ -11,7 +11,6 @@
 
 **Turning ideas into shipped products — web, mobile, and AI, end to end.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-alimurtazabaloxh.netlify.app-7F00FF?style=for-the-badge)](https://alimurtazabaloxh.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ali-murtaza-abb0b7236)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:halikorai@gmail.com)
 
@@ -21,7 +20,7 @@
 
 ## 🚀 About Me
 
-I'm a Senior Full-Stack Engineer and AI Systems Architect based in Pakistan, designing and shipping production-grade web, mobile, and AI-native products end-to-end — system design, data architecture, model integration, and deployment. I care about building systems that hold up under real load, not just demos.
+I'm Full-Stack Engineer and AI Systems Architect based in Pakistan, designing and shipping production-grade web, mobile, and AI-native products end-to-end — system design, data architecture, model integration, and deployment. I care about building systems that hold up under real load, not just demos.
 
 - 🔭 Architecting **Hedical** — a document-intelligence pipeline for medical billing: OCR/vision extraction → structured data parsing → cost-anomaly detection → automated appeal-letter generation, backed by an LLM-orchestration layer
 - 📱 Engineering **Garbiq** — a personalization engine for outfit recommendation (React Native + NestJS), combining wardrobe classification with a preference-driven recommendation model
@@ -210,7 +209,6 @@ I'm a Senior Full-Stack Engineer and AI Systems Architect based in Pakistan, des
 
 **📬 Contact**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge)](https://alimurtazabaloxh.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:halikorai@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-murtaza-abb0b7236)
 
@@ -225,6 +223,6 @@ I'm a Senior Full-Stack Engineer and AI Systems Architect based in Pakistan, des
 ⚡ Building AI-powered web & mobile products
 Star ⭐ the repos if they helped you!
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:F5F5F5,50:CCCCCC,100:9E9E9E&height=200&section=header&text=Ali%20Murtaza&fontSize=50&fontColor=222222&animation=fadeIn&fontAlignY=35)
+![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=0:9E9E9E,50:CCCCCC,100:F5F5F5&height=120&section=footer)
 
 </div>
