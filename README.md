@@ -1,10 +1,9 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C9FF,100:00FFA3&height=200&section=header&text=Ali%20Murtaza&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:F5F5F5,50:CCCCCC,100:9E9E9E&height=200&section=header&text=Ali%20Murtaza&fontSize=50&fontColor=222222&animation=fadeIn&fontAlignY=35)
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="480">
 
-<a href="https://alimurtazabaloxh.netlify.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Mobile+Developer;React+%7C+React+Native+%7C+TypeScript;Building+AI-Powered+Apps;Currently+shipping+Hedical+%26+Garbiq" alt="Typing SVG" />
 </a>
 
@@ -212,7 +211,6 @@ I'm a Full-Stack Developer based in Pakistan, working across web, mobile, and AI
 
 **📬 Contact**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge)](https://alimurtazabaloxh.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:halikorai@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-murtaza-abb0b7236)
 
