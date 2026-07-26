@@ -1,10 +1,9 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C9FF,100:00FFA3&height=200&section=header&text=Ali%20Murtaza&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:F5F5F5,50:CCCCCC,100:9E9E9E&height=200&section=header&text=Ali%20Murtaza&fontSize=50&fontColor=222222&animation=fadeIn&fontAlignY=35)
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="480">
 
-<a href="https://alimurtazabaloxh.netlify.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Mobile+Developer;React+%7C+React+Native+%7C+TypeScript;Building+AI-Powered+Apps;Currently+shipping+Hedical+%26+Garbiq" alt="Typing SVG" />
 </a>
 
@@ -42,26 +41,26 @@ I'm a Senior Full-Stack Engineer and AI Systems Architect based in Pakistan, des
 <tr>
 <td width="33%" valign="top">
 
-### 🧩 Web Development
-- React, Next.js, TypeScript
-- REST API design & integration
-- Responsive, accessible UI
+### 🧩 Web Systems
+- React/Next.js architecture — SSR, RSC, edge rendering, state management
+- API design: REST, auth (JWT/OAuth2), rate limiting, versioning
+- Performance budgets, accessibility (WCAG), and responsive systems at scale
 
 </td>
 <td width="33%" valign="top">
 
-### 📱 Mobile Development
-- React Native (Expo & Bare CLI)
-- Cross-platform architecture
-- Native API integration
+### 📱 Mobile Systems
+- React Native (Expo & bare) — native module bridging, OTA release pipelines
+- Cross-platform state & navigation architecture for large codebases
+- Native API integration: camera, geolocation, push, background tasks
 
 </td>
 <td width="33%" valign="top">
 
-### 🤖 AI & Backend
-- FastAPI, NestJS, PostgreSQL
-- AI-powered feature pipelines
-- Claude / LLM API integration
+### 🤖 AI & Backend Systems
+- FastAPI/NestJS services — async pipelines, queueing, caching layers
+- PostgreSQL schema design, indexing, and query optimization at scale
+- LLM inference integration: prompt/context engineering, streaming, structured outputs, cost/latency tradeoffs
 
 </td>
 </tr>
@@ -79,29 +78,29 @@ I'm a Senior Full-Stack Engineer and AI Systems Architect based in Pakistan, des
 <tr>
 <td width="33%" valign="top">
 
-**🏗️ Build Systems**
-- Scalable full-stack apps
-- Cross-platform mobile builds
-- Subscription/usage-gated architecture
-- CI-friendly, modular codebases
+**🏗️ Systems Design**
+- Modular, service-oriented full-stack architecture
+- Cross-platform mobile release pipelines (CI/CD, OTA)
+- Usage-metered, subscription-gated backend architecture
+- Codebases designed for testability and handoff, not just shipping
 
 </td>
 <td width="33%" valign="top">
 
-**🎯 Interests**
-- AI-powered product features
-- LLM-driven automation
-- Agentic dev workflows (Claude Code)
-- Applied ML for real-world tools
+**🎯 Focus Areas**
+- Production LLM system design (orchestration, evaluation, cost control)
+- Agentic engineering workflows and tool-use pipelines
+- Applied ML integration into real product surfaces, not demos
+- API and data-contract design between mobile, web, and AI services
 
 </td>
 <td width="33%" valign="top">
 
-**💡 Philosophy**
-- Ship end-to-end, not half-features
-- Clean code over clever code
-- UX is not optional
-- If it doesn't work in production, it doesn't count
+**💡 Engineering Principles**
+- Architect for the failure case, not just the happy path
+- Maintainability and clarity over cleverness
+- UX and system reliability are part of the spec, not polish
+- If it doesn't survive production load, it isn't done
 
 </td>
 </tr>
@@ -226,6 +225,6 @@ I'm a Senior Full-Stack Engineer and AI Systems Architect based in Pakistan, des
 ⚡ Building AI-powered web & mobile products
 Star ⭐ the repos if they helped you!
 
-![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00FFA3,50:00C9FF,100:7F00FF&height=120&section=footer)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:F5F5F5,50:CCCCCC,100:9E9E9E&height=200&section=header&text=Ali%20Murtaza&fontSize=50&fontColor=222222&animation=fadeIn&fontAlignY=35)
 
 </div>
