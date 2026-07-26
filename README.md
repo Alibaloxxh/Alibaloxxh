@@ -1,9 +1,10 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:F5F5F5,50:CCCCCC,100:9E9E9E&height=200&section=header&text=Ali%20Murtaza&fontSize=50&fontColor=222222&animation=fadeIn&fontAlignY=35)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C9FF,100:00FFA3&height=200&section=header&text=Ali%20Murtaza&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35)
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="480">
 
+<a href="https://alimurtazabaloxh.netlify.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Mobile+Developer;React+%7C+React+Native+%7C+TypeScript;Building+AI-Powered+Apps;Currently+shipping+Hedical+%26+Garbiq" alt="Typing SVG" />
 </a>
 
@@ -21,13 +22,13 @@
 
 ## 🚀 About Me
 
-I'm a Full-Stack Developer based in Pakistan, working across web, mobile, and AI-driven products — from solo-founder SaaS builds to freelance client work. I care about shipping features end-to-end: clean code, real UX, and systems that actually hold up in production.
+I'm a Senior Full-Stack Engineer and AI Systems Architect based in Pakistan, designing and shipping production-grade web, mobile, and AI-native products end-to-end — system design, data architecture, model integration, and deployment. I care about building systems that hold up under real load, not just demos.
 
-- 🔭 Currently building **Hedical** — an AI medical bill decoder & appeal letter generator
-- 📱 Also building **Garbiq** — an AI-powered outfit planning app (React Native + NestJS)
+- 🔭 Architecting **Hedical** — a document-intelligence pipeline for medical billing: OCR/vision extraction → structured data parsing → cost-anomaly detection → automated appeal-letter generation, backed by an LLM-orchestration layer
+- 📱 Engineering **Garbiq** — a personalization engine for outfit recommendation (React Native + NestJS), combining wardrobe classification with a preference-driven recommendation model
 - 🎓 BS Information Technology @ Shaheed Benazir Bhutto University
-- 🛡️ Hands-on experience in web app security (OWASP Top 10, Burp Suite)
-- 🌱 Currently exploring AI agent workflows and Claude Code-driven development
+- 🛡️ Applied application-security practitioner — threat modeling against the OWASP Top 10, manual pentesting with Burp Suite
+- 🌱 Designing agentic, multi-step development workflows — orchestrating autonomous coding agents (Claude Code) into CI-integrated engineering pipelines
 
 ---
 
@@ -118,47 +119,46 @@ I'm a Full-Stack Developer based in Pakistan, working across web, mobile, and AI
 
 ---
 
-<div align="center">
-
-![Tech Projects Domains](https://capsule-render.vercel.app/api?type=rect&color=0:FF6A00,100:EE0979&height=100&section=header&text=TECHNOLOGIES%2C%20PROJECTS%20%26%20DOMAINS&fontSize=22&fontColor=FFFFFF&fontAlignY=50)
-
-</div>
+### ⚙️ Technologies · Projects · AI Domains
 
 <table>
 <tr>
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top">
 
 **Technologies**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </td>
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top">
 
 **Projects**
 
-🩺 Hedical — AI bill decoder
-👕 Garbiq — AI wardrobe planner
-📖 Kiitaab — Arabic learning app
-🚗 RastaAI — Predictive navigation
-🍔 FastFoodApp — Ordering app
+- 🩺 **Hedical** — medical billing intelligence platform
+- 👕 **Garbiq** — vision-driven outfit recommendation engine
+- 📖 **Kiitaab** — cross-platform Arabic-learning system
+- 🚗 **RastaAI** — ML-based predictive road navigation
+- 🍔 **FastFoodApp** — cross-platform ordering system
 
 </td>
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top">
 
-**AI Domains**
+**AI Engineering Domains**
 
-🧠 LLM integration (Claude/Groq)
-📄 Document/vision extraction
-🔁 Agentic dev workflows
-📊 Usage-based AI gating
-💬 NL chat & function calling
+- 🧠 LLM orchestration & multi-agent workflow design
+- 🔌 Custom model integration & inference pipelines
+- 🔍 Retrieval-augmented generation (RAG) & vector search
+- 📄 Multimodal document intelligence (vision + text extraction)
+- 🧩 Structured output & function-calling system design
+- 📊 Cost/latency-aware inference gating at scale
 
 </td>
 </tr>
@@ -170,11 +170,11 @@ I'm a Full-Stack Developer based in Pakistan, working across web, mobile, and AI
 
 | Project | Description | Tech |
 |---|---|---|
-| **[Hedical](https://hedical.online)** | AI medical bill decoder & appeal letter generator | Next.js, Supabase, Groq |
-| **Garbiq** | AI outfit planning & wardrobe app | React Native, NestJS, PostgreSQL |
-| **Kiitaab** | Cross-platform learning app with Firebase & Stripe | React Native, Expo, Redux Toolkit |
-| **RastaAI** | AI-powered predictive navigation for South Asian roads | React Native, FastAPI, ML, OSRM |
-| **FastFoodApp** | Cross-platform food ordering app | React Native, Expo |
+| **[Hedical](https://hedical.online)** | Document-intelligence pipeline for medical billing — OCR extraction, cost-anomaly detection, and LLM-driven appeal-letter generation | Next.js, Supabase, LLM inference APIs |
+| **Garbiq** | Personalization engine for outfit recommendation, combining wardrobe classification with a preference-driven model | React Native, NestJS, PostgreSQL |
+| **Kiitaab** | Cross-platform learning system with subscription billing and offline-first architecture | React Native, Expo, Redux Toolkit, Firebase, Stripe |
+| **RastaAI** | ML-driven predictive navigation for South Asian road conditions | React Native, FastAPI, ML, OSRM |
+| **FastFoodApp** | Cross-platform ordering system with real-time order state management | React Native, Expo |
 
 ---
 
@@ -211,6 +211,7 @@ I'm a Full-Stack Developer based in Pakistan, working across web, mobile, and AI
 
 **📬 Contact**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge)](https://alimurtazabaloxh.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:halikorai@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-murtaza-abb0b7236)
 
